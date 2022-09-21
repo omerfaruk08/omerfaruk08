@@ -1,3 +1,3 @@
 - Hi, I’m @OmerFG_
 - I’m interested in python and game dev.
-- I’m currently learning python and Unreal Engine.
+- I’m currently learning Python , C++ and Unreal Engine.
